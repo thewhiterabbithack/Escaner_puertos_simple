@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import socket
-import argparse
 import sys
 from termcolor import colored
 
